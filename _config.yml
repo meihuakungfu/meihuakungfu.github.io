@@ -1,0 +1,10 @@
+# Site settings
+title: Mei Hua Kung Fu
+email: webmaster@meihuakungfu.org
+description: "Mei Hua Kung Fu - Escuela de Artes Marciales Tradicionales Chinas"
+#baseurl: "meihuakungfu.org"
+url: "http://meihuakungfu.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
